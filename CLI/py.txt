@@ -1,0 +1,412 @@
+a        ß¹°¡àÄëçï¹°¢
+ai        °§°¥°¦àÉàÈ°£æÈ°¤ÞßêÓ°®è¨°©°¨°«íÁ°­°¬°ªïÍ°¯ö°
+an        °³Ûû°²°¶âÖ°´Þî°µ°¸èñ°±áí°·ÚÏï§°°ðÆ÷ö
+ang        °º°»°¹
+ao        °Á°¼à»Ûê°ÂæÁá®âÚ°ÃÞÖ°½°Ä°¾éá°¿ñúòü°ÀåÛöË÷éæñ÷¡
+ba        °Ë°È°É°Óá±°Í°Ç°Ñ°Î°Æå±°Ö°Ì°ÊôÎ°Õ°Ò°ÅÜØÝÃ°ÏîÙ°Ô°Ð÷ÉöÑ
+bai        °Û°ÝÞãêþ°Ú°Ø°×°Ù°Þ°Ü
+ban        °é°ì°ëÛà°ç°â°è°á°ß°å°æ°à°êñ£ñ­°íô²°ãîÓÚæ°ä
+bang        °ø°ï°ð°ô°ñäº°õ°ó°òÝò°ö°ù°î°÷
+bao        ±£°þÙè°ü±¤æß±¦±¨±§±©ÆØÆÙÅÚìÒ±¬°û°úÝá±¡°ýñÙ±ªõÀ±¢±¥±«ð±öµ
+bei        ±¶±±±°ßÂ±¸ØÃã£±¯±¹±­±º±·±®íÕ±³Ýí±»ñØ±´±²ÚýöÍ±µÚé÷¹ðÇ
+ben        ÛÐº»±¼±¾ÛÎ±¿±½ï¼
+beng        àÔ±À±Ãê´±Â±Á°ö±Ä±Å
+bian        ±ãØÒ±å±äÛÍâí±âãêìÔí¾íÜñ¹óÖçÂ±àÜÐòùñÛ±á±æ±ç±è±ß±é±Þöý
+biao        æ»±ë±êñ¦±ì±íñÑïÚïðì©ì­ì®æô÷§
+bie        ±ð±ï±ñõ¿±î
+bi        ÙÂØ°ßÁßÙ±Úåþæ¾æÔ±Ò±ÓâØ±×åö±Ë±Øã¹±Ö±È±Ï±Ñ±Ðääå¨áùèµî¯±Ôî¢±Ìïõ±ÊóÙóëó÷±Ûô°ÜÅÜêÝ©ÝÉ±Í±ÎÞµñÔôÅêÚõÏ±Ù±Æ±Ü±Éîé±Õ±Ý÷Â±Ç
+bin        ÙÏ±ö±ò±÷±óéÄéë±õ±ôçãçÍë÷áÙïÙ÷Æ÷Þ
+bing        ±û±ø±ùÆÁ²¢Þð±úéÄ±þ²¡Ù÷±üÚû±ý
+bo        Ùñ²®°þ²ª²©²·à£²¯²¦²«²¥ë¢°ØéÞ²´²¨²³²£íç²­ô¤²±²²²°²¤±¡õËõÛ²§îà²¬âÄ²µð¾
+bu        ²»²·ß²²¸ÆÒ²º²¼²À²¶êÎ²½ê³²¾²¹åÍ²¿õ³îÐîß
+ca        àê²Áíå
+cai        ²Ê²Å²Ä²Â²Ç²Ë²Ì²Ã²Æ²È²É
+can        ²Îåî²Ò²Ñ²Ð²Óè²ôÓ²Ï²Íæî÷õ
+cang        ²ÖØ÷²×²Õ²Ô²Ø
+cao        àÐ²Ù²Ü²Ûäî²Úô½²Ýó©
+ce        ²à²á²Þâü²â²ß
+cen        ²Îá¯ä¹
+ceng        àá²ãÔø²ä
+cha        É²²æÔûàêæ±²ì²í²î²å²ëè¾²éé«é¶éßãââª²ê²ç²èñÃ²ïïÊïïâÇ
+chai        Ù­²î²ð²ñðûò²²òîÎ
+chan        ²úÙææ¿åîâÜâã²ô²óäýå¤ìø²øåñÝÛ²õó¸êèÚÆ²÷õð²ù²û²ü²öæö
+chang        Øö³«³¥³§³ª³¡æ½æÏ³¢³£áäâêã®³¨²ýêÆë©²þ³©³¦ÜÉÝÅÉÑ³¤ãÑÛËöð
+chao        ½Ë³³³°³²â÷³­êË³¯³±³´ìÌ´Âñé³¬³®
+che        Ûå³¹³¶³¸³·³ºíº³µ
+chen        àÁå·³¾³ÀÞÓ³¿é´Éò³Áè¡í×³Æ³¼³ÄÚÈÚß³Ã³½³»³Âö³
+cheng        Ø©³Ë³Ê³ÇÛôëó³Í³É³Ð³ÅèÇèß³È³Îîª³Ó³Æ³ÌòÉñÎ³Ï³Ñõ¨îñîõ³Ò
+chi        ³ÞÙÑ³×ß³³Ôßêà´àÍÜ¯æÊ³ß³ÚáÜ³Öë·³â³Ø³ã³Õñ¡í÷ó×óø³á³ÜÜÝò¿ó¤ñÝôù³àõØ³ÙâÁ³Û÷Îð·³Ý
+chong        ³ä³å³è³çâçã¿ô©ô¾Üû³æÖØï¥
+chou        ³ó³ðÙ±àüã°³î³é³ëñ¬³ò³í³ï³ñ³ô³ì³êöÅ
+chu        Ø¡´¢³öÛ»³õ³ø´¦âðãÀ´¤èÆ³þèúéË³÷³üÐó´£´¡ç©òÜñÒ´¥õé³ù³ú³ý³û÷í
+chuai        à¨àÜ´§Þõëúõß
+chuan        ´®´«´­´¨´ªë°´©â¶ô­´¬å×îË
+chuang        ´´´±´²âë´¯´°´³
+chui        ´µ´¹´·é¢×µé³´¶´¸Úï
+chun        ´½´º´»´¾´¿Ý»òí´À´¼ðÈ
+chuo        à¨´Á´ÂõÖê¡öº
+ci        ´Ì²î´È´Î´Ë´É´Ã´ÅìôôÙÜë´Ä´Ê´Í´Ç´ÆðË
+cong        ´Ô´Ó´Ò´ÑèÈäÈçýè®´ÏÜÊ´Ðæõ
+cou        ´Õé¨ëíê£
+cu        ´Ù×äáÞéãâ§´Ø´ÖÝýõ¾õíõ¡´×
+cuan        ß¥ÔÜÙàìà´Ü´Û´Úïé
+cui        ´ßßý´Þã²´ÝéÁë¥´ãè­´á´â´ä´àÝÍË¥    
+cun        ´æ´çââ´åñå
+cuo        ØÈáÏ´ì´ë´ê´éðîðûïó´èëâõãï±´íõº
+da        ßÕàª´óæ§âò´ò´îí³´ñóÎ´ðÞÇñ×´ï÷°÷²
+dai        ´ú´ö´ôß¾Ü¤á·´ø´ýµ¡´÷´õ´ùçéß°çª´ü´ûåÊ´þ÷ì
+dan        µ¤µ«ÙÙÛÊµ¥à¢å´µ¯µ¬µ£µ§µ©ééµªµ­å£ðãð÷íñÊ¯óìµ¢ñõµ¨ÝÐÝÌµ°µ®êæµ¦
+dang        µ³µ±µ²µµí¸µ´ñÉÚÔîõ    
+dao        µ¹µ¶µ½ß¶µ¼µºµ¿µ·ë®ìâµÁµ»µ¾ôîµ¸µÀ
+de        µØµÃµÂµÄï½
+deng        µÊàâáØê­µÆµÇµÉíãµÈô£µÅµËïë
+di        µÍàÖµØÛæµÌæ·µÕµÛµ×µÜµÖµÐèÜé¦ØµµÓµÎµÒµÄíûíÆíÚìóµÑµÚÙáµÞôÆµÔÝ¶µÙêëÚ®ÚÐµÏµÝÛ¡ïá÷¾
+dia        àÇ
+dian        Ø¼µèµäÛãµæµìáÛµêµëµàµîµíµáµãçèµçµéñ°ñ²µâô¡õÚîäÚçµåµß
+diao        µòµóµðµõµôµïµ÷õõµöîöµñöô
+die        µþà©ÛìÜ¦Þéµùëºð¬µúñóµûµýµøµüöø
+ding        ¶¡Øê¶£à¤¶¨çàî®ðÛ¶¢íÖñôëë¶©ôú¶¤¶§¶¥¶¦
+diu        ¶ªîû
+dong        ¶«¶±¶¬¶³¶¯ßËÛíá´á¼¶²¶®¶°ë±¶´íÏëËëØ¶­ð´
+dou        ¶µ¶¶¶·¶»ñ¼óûÝúò½¶¹¶º¶¼î×¶¸
+du        à½¶Â¶Ê¶È¶Åèü¶¾äÂ¶Éë¹¶¿¶À¶½¶ÃóÆ¶ÇÜ¶ó¼¶Á¶Ä¶¼¶Æ÷Ç÷ò
+duan        ¶Ïé²¶ÎìÑ¶Ì¶Ëóý¶Ð¶Í
+dui        ¶Ò¶Ñ¶Ôí¡í­¶ØíÔïæ¶Ó
+dun        ¶Ö¶Ú¶Õ¶ØãçìÀíï¶Üí»íâõ»¶×¶Ý¶Û¶Ù
+duo        ¶çßÍ¶ßßá¶â¶é¶à¶á¶È¶è¶Þ¶äãõç¶¶æñÖ¶åõâ¶ãîì
+e        ¶í¶òßÀØ¬ÛÑ¶ðæ¹åí¶ë¶ñãµ¶óëñÜÃÝ­Ýà¶ê¶ïÚÌéî¶ô¶õï°ïÉ°¢ò¦¶î¶ööù¶ìðÊÅ¶
+ei        ÚÀ
+en        àÅ¶÷ÞôÝì
+er        ¶þ¶ù¶û¶ýçí¶ø¶ú·¡åÇîï¶üöÜð¹
+fa        ·¦·¥·¢ÛÒ·¨·©íÀ·¤·£·§
+fan        ·²·´âº·«á¦ë¶èó·®·º·³ìÜ·¸î²·¬·¯·±·­·¶Þ¬·ªÞÀ··õì·µ·°·¹
+fang        ·Â·»·Á·¿·Å·½èÊ·Ä·¾ô³·¼·ÃÚúîÕ·ÀöÐ
+fei        ·Ë·Í·Èåú·Ïã­ìéì³é¼·ÐäÇáôðòíÉóõç³ôä·Ê·ÎëèÜÀ·Æòã·Ì·ÑïÐö­·Ç·Éöî
+fen        ·ÝÙÇ·Ö·Ô·Ø·Ü·Þ·ßèû·Õ·Úå¯·Ù·Û·à·×·Ò·Óö÷÷÷
+feng        ·áÙº·ë·ïßô·î·â·å·ããã·é·èí¿·ìÝ×·ä·í·êÛº·æ·ç
+fo        ·ð
+fou        ·ñó¾
+fu        ¸¶·ü·ý¸©¸µÙì¸±Ùëß»ß¼¸À¸´·ò¸¾æÚ·õ¸»·ùá¥¸®¸¥âö·ö¸§·÷ÞÔ·ó¸«·þèõ·ú¸¡¸¢äæ¸¸¸¦ìð¸£ïû·ûç¦ç¨¸¿î··ô¸¬¸¯¸­¸¹åõÜ½ÜÀÜÞÜòÆÎÝ³ÝÊò¶òÝòðòó¸¤¸²¸¼¸º¸³êç¸°õÃõÆ¸¨·øÛ®¸ª¸·¸½ð¥æâöÖöûôïíêíë
+ga        ¸Â¸ÁÛò¼ÐæØæÙÞÎê¸ÔþîÅ
+gai        Ø¤ê®¸Ä¸Å¸È¸Ç½æ¸Ãêà¸ÆÚë
+gan        ÛáÞÏ¸É¸Ðß¦¸Òêº¸Ë¸ÌéÏãïäÆä÷¸Êðáí·¸Ñ¸Íç¤¸ÎÜÕ¸Ó¸Ïôû
+gang        ¸Ô¸Õ¸Úí°¸Ü¸Ûóà¸Ù¸×î¸¸Ø¸Ö
+gao        ¸æ¸ãê½éÂéÀ¸ÞØº¸å¸Ý¸âçÉ¸á¸àÞ»Ú¾Û¬ï¯¸ä¸ß
+gei        ¸ø
+ge        ¸öØî¸î¸÷ºÏ¿©¸çÛÁàÃÛÙÜª¸ê¸éë¡¸ñ¸è¸ííÑæü¸ìëõô´¸ðò´¸òñË¸õïÓ¸ó¸ô¸ïò¢÷ÀØª¸ë
+gen        Ø¨ßç¸ùôÞÝ¢¸ú
+geng        ßì¹¡¸ý¸ü¹£ç®¸þ¸û¹¢âÙöá
+gong        ¹©¹«¹²¹¦¹¬¹¤¹®¹­¹§¹°¹¥¹¯çîëÅò¼ö¡¹±¹ª¹¨
+gou        èÛØþ¹´¹¸¹»æÅá¸ì°¹¹¹µ¹·óÑóôçÃ¹¶êíÚ¸¹ºåÜ¹³÷¸
+gu        ¹À¹Å¸æ¹¾ØÅ¹Ì¹Ã¹ÂáÄ¹Êèôì±ãé¹Áêôêöðóî­¹¿î¹¹Éëû¹½ÝÔòÁ¹ÆõýÚ¬¹È¼Öéï¹¼ôþîÜïÀ¹Í¹Ë¹Çöñð³ðÀ÷½¹Ä
+gua        ¹Î¹ÐØÔßÉ¹Ñ¹Òèé¹ÏëÒ¹ÓÚ´ð»
+guai        ¹Ô¹Ö¹ÕÞâ
+guan        ÙÄ¹Ø¹Ú¹Ù¹ßÞè¹×äÊ¹àîÂñæ¹ÜÂÚ¹ÞÝ¸¹Û¹á¹Ý÷¤ðÙ
+guang        ¹âßÛ¹ãèæáîë×¹ä
+gui        ¹ôØÛØÐ¹çæ£å³âÑ¹éêÐ¹ñ¹ðèíêÁ¹å¹ïð§¹èóþ¹æ¹î¹ó¹ò¹ì¹ë¹íöÙ÷¬¹ê
+gun        ¹÷¹öíÞçµÙò¹õöç
+guo        ßÃ¹úÛöáÆàþÞâ¹ûé¤â£ñøë½òäòå¹ü¹ý¹ù¹øÙå
+ha        ¹þ¸òîþ
+hai        º¥àËº¢º¦º¤º£ëÜ»¹õ°º§º¡
+han        º¯º¬º°º®º·º©º¶º´Þþº³ºµêÏººº¹º­å«º¸ìÊáíº±º²ÝÕòÀÚõºªº¨ãÛº«ñüò¥÷ý
+hang        ¿Ôº»º¼ãìç¬º½ÐÐñþ
+hao        ºÅàÆàãº¿º¾ºÃê»ºÁºÆå©å°ð©ºÄÝïÞ¶òººÀºÑºÂò«
+he        ºÎÛÀºÏºÇºÍºÈàÀÛÖêÂºËºÓºÔîÁºÐºÌôçºÉºÊòÂºÖÚ­ºÑºØºÕºÒãØò¢º×
+hei        ºÙºÚ
+hen        ºÜºÞºÝºÛ
+heng        ºàºßºãèìºáçñÞ¿ºâ
+hong        ºåºêºëãüºéºæºìÝ¦Þ®Þ°ºçÙêÚ§ºäãÈºèÙä
+hou        ºîºòºñºóºðºíÜ©ááºïðúóóô×åË÷¿ö×
+hu        ºõ»¥ÙüºôºÍ»£ßüàñºøá²»¡ºöâïã±»§ìæìè»¤õúéÎ»¦ä°ºþäïìÃìÎºüâ©çúº÷ð­ìïóËºýºúºù»¢ºûì²éõõ­ðÀðÉ÷½ð×
+hua        »®»¯»ª»©èë»¬»«»­í¹»¨»°îüæè
+huai        »µ»²»³»±»´õ×
+huan        »½à÷Û¼»Âå¾»Ã»¼»»ß§»¸»¶ä¡ä½»Áäñ»Àâµ»·»¾»ºçÙÝÈ»¿»¹åÕÛ¨ïÌ÷ßöé
+huang        »Ë»Ïáå»Ð»Ì»Å»ÎäÒäê»Íè«ñ¥»Ê»Çóò»ÉëÁ»Ä»Èó¨»ÑåØÚòöü»Æ
+hui        »á»ÜßÔà¹»Øåç»Õí£»Ö»Ú»Ý»Û»ÓêÍ»Þèí»Ù»ãä§»Ò»âçõ»à»æçÀÜîÜöÞ¥ò³»×ó³»äÚ¶»å»ß»ÔãÄ÷â
+hun        »é»è»ë»ìäãçõ»çÚ»ãÔâÆ»ê
+huo        »ïØåºÍàëâ·»ó»òß«»î»ð»öñë»ñÞ½ó¶»í»õîØïÁïì»ô
+ji        ØÀØ½¼¿Ù¥ÙÊ¼½¼¸»÷¼ÁØÞ¼´¼°ß´¼ªßÒßâßó»ø»ùÛÔ¼Ë¼§¼µ¼¾¼Å¼Äåìá§ïúáÕ¼º¼É¼±¼Âêªê«¼¼¼·Þá¼Èôß»ú¼«¼¬é®éê¼³ä©¼Ã¼¤ê÷çá»ûçÜ¼²ñ¤í¶¼À»ýð¢»üóÇóÅ»þ¼®Ïµ¼¶¼Í¸ø¼Ì¼¨¼©î¿¼¡¼¹Ü¸ÜÁÜùÝð¼»Þª½åò±êé¼Æ¼¥¼ÇêåõÒõÕ¼­¼£¼Ê¼¯ö«¼¢Æïæ÷÷ÙöÝöê¼¦÷äì´
+jia        ¼ÛÙ¤¼Ñ¼Ù¼Ó¼Î¼Ð¼Þ¼Òáµí¢ê©¼Ü¼Ïä¤çì¼×ðèðý¼ÚóÕëÎÇÑ¼ÔÝçòÌôÂ¼ÖõÊåÈÛ£¼ØîòïØ¼Õ¼Ý
+jian        ¼þ¼ó½¡ÙÔ¼æ¼õ½£¼ôàî¼á¼é¼â½¨ê§ê¯¼ð¼ñÞöèÅ¼í¼ìé¥¼÷¼ßë¦½§½¥äÕ½¦¼åêðêù¼àíú¼ï¼îóÈ¼ã¼ò¼ý¼êçÌôå¼çëì½¢¼è¼ë¼öÝÑÝóñÐ¼ûåÀÚÉÚÙ¼ú¼ùõÝå¿¼øïµ¼ü¼ä÷µ½¤öä
+jiang        ½©½³½±½ª½«Ç¿½°½­ä®½¬êñ½®íäôÝç­çÖñðÜü½¯½²ôø½´½µö¦    
+jiao        ½»Ù®½ÄÙÕ½Ë½ÐàÝ½Àæ¯½¿á½áèÞØ½Á½Ìë¸Ð£½·½½äÐ½¹½Æð¨½Ã½¸½Ñ½Ê½É½º½ÅÜ´Üú½¶òÔ½ÇõÓ½Î½Ï½¼½Íõ´½Â½È½¾öÞðÔ
+jie        ½é½è½Ùà®àµ½ãæ¼æÝ½ì½ä½ØÞ×½Ý½Ó½Ò½Üèî½Û½à½çðÜ½ê½Ô½ÞíÙ½Õ½ß½áôÉ½Ú½æ½åò»½Ö½âÚ¦Úµ½ë½×ò¡÷ºöÚ
+jin        ½ö½ñ¾¢ÚáàäÝÀæ¡¾¡½íâÛ½ï½úéÈ½ò½þ½ýèªñæ½û½î½ôçÆÝ£ñÆ½óêî½÷êá½ü½ø½ð½õ½ùâË
+jing        ¾®¾©ÙÓ¾¤¾»ØÙ¾³æºåò¾¶¾ªã½¾´ìº¾°¾§ãþâ°¾·¾¦¾º¾¹óä¾¬¾«¾­ëÂëÖëæ¾¥¾£Ý¼¾¯åÉ¾µÚå¾¸¾²¾±¾¨
+jiong        ìç¾¼¾½åÄ
+jiu        ¾Ã¾ÅÙÖ¾Ç¾Ìà±¾Í¾¾¾È¾ÉèÑèê¾Ä¾Á¾Î¾¿¾À¾Ê¾Ëôñ¾ÆãÎ¾Â÷Ýð¯ðÕ
+ju        ÇÒ¾Ù¾ãÙÆ¾ß¾ç¾ä¾×¾Ö¾Óåð¾Þ¾å¾Ü¾ÐèÛ¾ÝÞäé§é·é°éÙ¾Ú¾æêø¾Ñè¢¾Ò¾ØñÀ¾ÛÜÄÜÚÜì¾ÕñÕÚªôò¾à¾áõá³µåáõ¶îÒï¸¾âöÂ¾Ï÷¶ì«¾Ôö´
+juan        ¾ë¾í¾ê¾èèðä¸áú¾ì¾îîÃÛ²ïÃïÔöÁ¾é
+jue        ¾ó¾öØãØÊàÙàå½ÀæÞáÈ¾ñ¾ò¾ï¾ðèöéÓìß¾ôâ±çåÛÇ¾øÞ§¾õõû¾÷ÚÜõêïã
+jun        ¿¡¾ü¾ý¾ù¾þÞÜ¿£ñä¿¢óÞ¾ú¿¤¾û¿¥÷å
+ka        Øû¿¨ßÇ¿§¿©¿¦ëÌ
+kai        ¿­ØÜÛî¿ªâéâý¿®¿«¿¬ÝÜîøï´ïÇ
+kan        Ù©¿¯¿±¿²¿°ê¬¼÷¿´î«¿³Ý¨ãÛíè
+kang        ¿ºØø¿µ¿¶¿¸¿¹¿»¿·îÖãÊ
+kao        åê¿½èà¿¾êû¿¼îí¿¿
+ke        ¿Ë¿Ì¿É¿Èà¾¿À¿Ç¿Íá³ã¡¿Â¿Ãë´¿ÊäÛçæðâî§¿Ä¿Æïýñ½ç¼¿Áòò¿ÎéðîÝï¾ò¤¿Åæì÷Á
+ken        ¿Ð¿Ñ¿Ò¿ÏñÌö¸
+keng        ¿Ô¿Óï¬
+kong        ÙÅ¿×áÇ¿Ö¿Ø¿Õóí
+kou        ¿Úßµ¿Ü¿Û¿ÙíîóØÜÒÞ¢
+ku        ØÚ¿Þà·Ü¥¿â¿Ý¿ßç«¿à¿ã¿á÷¼
+kua        Ù¨¿å¿ä¿æ¿è¿ç
+kuai        »á¿ëßà¿é¿ìä«áö¿êëÚØáÛ¦
+kuan        ¿í¿î÷Å
+kuang        ¿ö¿ïßÑÛÛÞÅ¿õ¿ò¿ñ¿ô¿ó¿ðæþÚ²Ú¿êÜÚ÷
+kui        ¿÷¿þØÑà°à­Ùç¿ü¿ùã¦ã´À¢ÞñêÒÀ£¿øî¥¿úóññù¿ûÝÞòñõÍåÓÚóÀ¡Ø¸¿ý
+kun        À§À¤ã§À¦À¥çûõ«ï¿ãÍ÷Õöï
+kuo        ÀªÀ©À¨òÒÀ«
+la        ØÝÀ²À®À¬À­ê¹ðøíÇÀ°ÂäÀ¯À±åå
+lai        áÁáâÀ´äµäþñ®íùô¥À³êãÀµïª
+lan        À¼À·á°ÀÁÀ¹À¿ìµÀ¸é­ÀÄäíÀ½ÀÃÀºÀÂî½À¶ñÜÀÀÀ¾ïçÀ»
+lang        à¥ÀÈÀÊÀÆÀËÀÇÀÅïüÝõòëÀÉãÏ
+lao        ÀÐÀÍßëÀÑáÀâáÀÌèáÀÔÁÊÀÓÀÎðìÀÏñìÀÒõ²îîï©
+le        ÀÖÁËØìÀÕß·ãî÷¦
+lei        ÀÜàÏÀÝæÐÀÞéÛÀáÀÚÀàÀÛçÐÙúñçÀßÀÙÚ³õªÀØÀ×
+leng        ÀäÜ¨ã¶ÀâÀã
+li        ÀöÀýÀþÙµÙ³ÀüÀûÁ¦ÀøÀúÀ÷ÀåÀôß¿Á¨à¦à¬ÛÞæ²æËìåÀîèÀèÝÀõÀæÁ¤äàÀìå¢ÀçÀêáûÀíÁ§ðÝðßÁ¡íÂÀùÀñÀëÁ¢óÒóöÀéÁ£ôÏçÊî¾ì¢ÜÂÀóÝ°ÀòÝñÞ¼òÃòÛó»îºõÈéöåÎÛªõ·Àïï®Á¥ö¨æêöâÀð÷¯ð¿Àè÷ó
+lia        Á©    
+lian        ÞÆÁ±Á®Á¯ÁµÁ²é¬éçÁ°äòå¥Á¶çöÁ·ÁªÁ³ì¡Á«Ýüó¹ñÍñÏÁ¬Á´Á­öã
+liang        Á½ÁÁÁ©Á¹Ü®ÁÀÁºé£Á¸Á»Á¼Ý¹ÁÂõÔÁ¾Á¿ï¶ö¦÷Ë
+liao        ÁËÁÅàÚÁÈå¼ÞÍÁÎÁÌÁÃÁÏÁÊÁÇâ²ÁÆçÔÁÄÞ¤ÁÉîÉÁÍðÓ
+lie        ÙýÁÐÁÓßÖÛøÞæä£ÁÒÁÔÁÑôóõñ÷à
+lin        ÁÙÁÝÁßßøá×âÞãÁÁàÁÖéÝÁÜÁÕî¬Á×ôÔÝþÁÞõïê¥åàÁÚÁØÁÛ÷ë
+ling        ÁîÁæÁèÁíßÊàòÁëèÚèùãöÁéÁáê²ç±ÁçôáñöÜßÁâòÈÛ¹ÁåÁêÁãÁìöìÁä
+liu        ÁùÁõì¼ÁøÁñÁ÷ä¯ÁïìÖÁðÁôÁöÁòç¸åÞöÌï³ïÖÁóæòðÒ
+lo        ¿©    
+long        ÁüÂ¢ÛâÂ£èÐãñççñªíÃÁþÁýÁûëÊÜ×Â¤Â¡Áú
+lou        ÙÍà¶Â¦áÐÂ§Â¥Â©ðüÂ¨ñïÝäò÷ïÎÂªÂ¶÷Ã
+lu        Â¬Â±ààÛäÂ®Â¼Â¾Â°ß£èÓéÖëªãòäËäõÂºÂ¯è´ÂµÂ»óüëÍôµÂ«Â²Â¸Â·éñéûê¤åÖïåÂ½Â¶Â­Â³öÔðµðØÂ¹Â´
+luan        ÂÒÂÑæ®ÂÏÂÍÂÎèïÂÐÙõöÇð½
+lue        ÂÓÂÔï²
+lun        ÂØÂ×àðÂÕÂÙÂÚÂÛÂÖ
+luo        ÙÀ¿©Þûé¡ãøÂåäðÀÓâ¤çóñ§ÂáÂçÂÞëáÜýÂÜÂäÂÝÙùÂãõÈÂßÂàïÝöÃÂæÂâ
+lv        ÂÂÙÍÂÀÂÅÂÄÂÉÞÛÂÃéµÂÈÂËÂÊïùÂÌÂÆëöÂÇñÚÂÁãÌÂ¿
+m        ß¼
+ma        ÂðßéÂïÂèÄ¨è¿áïÂêÂëÂìó¡ÂíÂîÂé÷á    
+mai        ÂòÛ½ÂôÂñÂöÝ¤Âõö²Âó
+man        Ü¬á£ÂýÂüÂúÂþì×Â÷çÏÂûÂùòýÃ¡ïÜ÷´ò©Âø÷©
+mang        Ã¦Ã¥äÝÃ¤íËÃ¢Ã£Ã§òþÚø
+mao        Ã°Ã®á¹Ã±í®ì¸êÄÃ«ã÷êóÃ¨è£î¦Ã¬ë£Ã¯Ã©Üâòúó±ÙóÃ²Ã³Ã­Ãª÷Ö
+me        Ã´÷á    
+mei        ÃÃÃ½ÃÄÃÂáÒÃÁÃ¶Ã·é¹Ã¿Ã»ä¼äØÃºâ­ÃµÃ¼ÃÓÃÀÝ®ñÇÃ¸Ã¾ïÑÃ¹÷ÈðÌ
+men        ÃÇí¯ÞÑìËîÍÃÅÃÆ
+meng        ÛÂÃÏãÂëüÃÎÃÊÃÍÝùÃËÞ«íæô»ô¿ÃÈÃÉòµòìó·ÃÌ
+mi        ßäà×åµÃÜÃÝÃÖåôôÍãèÃÚâ¨ÃÐìòÃØÃ×ÃÓ÷ãëßØÂÃÛÃÙÃÕÚ×ÃÔÃÑÃÒ÷ç
+mian        ÃâÃáÃãÃäÃÞãæäÅäÏííÃßÃàÃåëïÃæ
+miao        ß÷ÃîÃíÃèèÂíµÃìíðÃéÃëç¿çÑÃçÃêåãðÅ
+mie        Ø¿ßãÃðóúÃïóº
+min        áºÃõíªÃòÃôÃñãýçäçëÃóçÅÜåãÉÃö÷ªö¼
+ming        Ú¤ÃûÃüÃ÷êÔäéî¨ÜøÃøõ¤ÃúÃù
+miu        çÑÃý
+mo        Ä«æÆæÖÄ¯Ä¨Ä¦ÃþÄ¡Ä©Ä£éâÃ»Ä­Ä®ñ¢Ä¥ï÷ñòÂöÄ¤ÜÔÄªÝëÄ¢ÚÓõöõøïÒÄ°âÉÄ§÷áÄ¬
+mou        Ù°ßèÄ³Ä²íøçÑòÖÄ±öÊ
+mu        Ä¶ØïÄ¼ÛéÄ¹Ä·Ä»Ä½Ä´ÄºÄ¾Ä¸ë¤ãåÄ²ÄµÄÁÄ¿ÄÀÄÂÜÙîâ
+na        ÄÅÄÄÄÈÄÃÞàÄÉëÇñÄÄÇÄÆïÕÚ«
+nai        ÄËÙ¦ÄÎÄÌèÍÄÊÄÍÜµÝÁØ¾
+nang        ÄÒàìß­êÙâÎ
+nan        ÄÏà«àîàïéªÄÐëîòïôöÄÑ
+nao        ßÎÛñØ«ÄÕÄÓÄ×â®è§íÐÄÔòÍîóÄÖ
+ne        Ú«ÄØ
+nei        ÄÚÄÙ
+nen        ÄÛí¥
+neng        ÄÜ
+ni        Ù£ÄãÄßÄäÛèÄÝÄáâõÄâì»êÇÄàÄçâ¥íþÄåÞÂÄæîêÄÞöò
+nian        ÛþÄêØ¥ÄîÄéÄíÄìÄëÕ³ÄèéýöÓöóð¤
+niang        ÄïÄð
+niao        æÕÄòëåÜàôÁÄñ
+nie        Ø¿Äöà¿ÄõÄóÄùÄôô«ÞÁõæÄ÷ÄøÚíò¨
+nin        Äú
+ning        ØúÄýßÌÄþÅ¡ÄûÅ¢Äüå¸ñ÷
+niu        æ¤âîÅ¤ÞÖÅ£áðÅ¦Å¥
+nong        Ù¯Å©ßæÅªÅ¨Å§
+nou        ññ
+nu        Å¬Å«æÛåóÅ­æÀæå
+nuan        Å¯
+nue        Å²Å±Å°
+nuo        ÙÐßöÄÈÅ³ÞùÅ´Åµï»
+nv        Å®í¤ô¬îÏ
+o        Å¶àÞ
+ou        Å¼Å»âæÅ·Å¹Å½ê±ñîÅºÚ©Å¸
+pa        Å¾ÅÁÅÂ°ÇèËÅÀÅÃóá°ÒÝâÅ¿
+pai        Ù½ßßÅÇÅÄÅÅÅÉÅÈÅÆÝå
+pan        ÅÐÅÑÞÕÅÊãúÅËãÝÅÏÅÌÅÎÅÍÅÖó´ñÈñáõç
+pang        ÅÒâºÅÓáÝë¶ÅÔäè°õÅÕÅÖó¦åÌ
+pao        ÅÙÞËÅØâÒÅ×ÅÝÅÚáóðåëãÅÛÅÜ
+pei        ÅåÅÞÅààúì·ÅæÅßÅáÅâàÎÅäõ¬ïÂÅãö¬
+pen        ÅçäÔÅè
+peng        àØÜ¡ÅíâñÅêÅõÅóÅïÅìÅëÅéÅðÅöÅñÅòÅîó²Åô
+pi        Ø§ØòÆ§ÅüÆ¥·ñÆ¡àèÛÜÅ÷ÛýæÇÆ¨âÏÅúÅûß¨èÁÅþäÄÅýê¶ñâÆ£Æ¦ñ±Æ¤Åøç¢î¼Æ¢ÜÅò·òç±»Æ©õù±ÙÚüÛ¯îëÚðÅùÜ±
+pian        ±ãÆ«Æ¬êúÆªôæëÝÚÒõäæéÆ­
+piao        ØâàÑæÎéèÆ¯Æ°î©Æ±çÎÝ³óªÆ®
+pie        Ø¯áêÆ²ë­Æ³ÜÖ
+pin        Æ·æ°æÉÆ´é¯êòÆ¸Æ¶Æµò­
+ping        Æ¹Ù··ëÆ¾Æºæ³ÆÁÆ½èÒÆ¿Æ»Æ¼ÆÀöÒ
+pou        ÆÊÞåÙö
+po        ØÏÆÂÆÅÆÃçêð«ÆÆóÍÆÉÆÈÛ¶îÇîÞÆÄÆÇ
+pu        ÆÍÙéàÛÆÔÆÒÆËÆÕ±©ÆØÆÓë«ÆÖäßå§ÆÙè±ÆÎÆÐÆÏÆÑÆ×õëÆÌïäïè
+puo        Þå
+qi        ÆßÆòØÁÆóÙ¹ÆäÆàÆôàÒÆ÷ÛßÆæÆõÆÞá¨ÆñáªÆéÆúí¬ÆÝÆìÆÚè½ÆâÆÜèçÆåéÊÆÛÆçÆøãàÆûÆãÆüä¿Æáçùç÷ÆèÆöíÓÆîÆíì÷ôëç²¼©êÈÆêÜ»ÜÎÝ½ÝÂÝÝÞ­òÓòàÆýÆðÆùñýæëÆï÷¢÷èÆë
+qia        ¼ÐÇ¡ÆþÇ¢ÝÖñÊ÷Ä
+qian        Ç¬ÇªÙÝÙ»Ç°Ç§Çµá©Ç¶ã¥í©ã»Ç¤ÞçåºèýÇ·Ç¸Ç³Ç±Ç£Ç©óéÏËç×ëÉÜ·ÜÍÜçÝ¡ò¯å½Ç«Ç´Ç¨Ç²Ç¥îÔÇ®Ç¯Ç¦Úäå¹Ç­
+qiang        ÇºÇ½æÍ½«Ç¿ãÞê¨ÇÀÇ¹éÉìÁÇ¼ôÇÇ»Ç¾òÞñßõÄïºïÏïê
+qiao        ÇÇÇÈÇÎÏ÷Øä¿Çá½ÇÍÇÉÇÄã¸ã¾ÇËÇÃÇÅéÔÇÁÇÆíÍÇÏçØÇÌÜñÚ½ÚÛõÎÇÂ÷³ÇÊ    
+qie        ÇÒÇÐæªÇÓã«ã»êüÇÔóæÇÑôòÛ§ïÆ
+qin        Ç×ÇÖÇÚßÄàºàßÇÞÞìÇÜéÕÇßäÚÇÙñæÇÝÇØÜËÇÛòûôÀñûÇÕï·
+qing        ÇãÇäàõÇìÇéÇæÇçéÑÇâÇèÇåíàôìóÀÜÜòßö¥ÇëÇáÇàÇêöë÷ô
+qiong        ÇíÇîñ·óÌÜäòËõ¼ÚööÆ
+qiu        ÇðÙ´ÇôÛÏé±ÇóÇöäÐáìÇòÇïôÜò°òÇòøôÃêäåÏåÙÇñÇõöú÷ü
+qu        Û¾ÇøÈ¥È¡È¢Çüá«ÇúëÔë¬Çþè³ñ³öÄíáìîÜÄÞ¡Þ¾ÇùòÐó½áéêïÚ°Ç÷È¤ÇûãÖÇýð¶ôð÷ñÈ£
+quan        È«È¯È°È¦ãªÈ­È¨ÈªÈ®áëî°È¬óÜç¹ÜõòéÚ¹éúÈ©îýÈ§÷Ü
+que        È´í¨È¶È²È³È·È±ã×ãÚÈ¸Èµ
+qun        ÈºÈ¹åÒ÷å
+ran        È½È¾È»È¼ÜÛòÅ÷×
+rang        ÈÂÈÀÈÁÈ¿ìüð¦ÈÃ
+rao        æ¬ÈÅèãÈÆÜéÈÄ
+re        ßöÈÇÈÈ
+ren        ÈËÈÊØðÈÎÈÐÈÉÈÑÈÌïþÈÒÜóñÅÈÏéíÈÍâ¿
+reng        ÈÔÈÓ
+ri        ÈÕ
+rong        ÈßÈÝáÉÈÖéÅÈÜÈÛáõÈÞëÀÈ×ÈÙÈØòîÈÚ
+rou        ÈàÈáôÛÈâõå÷·
+ru        ÈéÈåÈëàéÈçÈæÈêä²äáå¦çÈÈãÝêÞ¸ÈäÈìñàÈèï¨ò¬
+ruan        ëÃÈíÈî
+rui        èÄÈðî£ÜÇÈïÞ¨ò¸Èñ
+run        ÈóÈò
+ruo        Ù¼ÈõóèÈô
+sa        Ø¦êýÈöÈ÷ëÛÈøìª
+sai        àçÈûÈùÈüÈú
+san        ÈýØíÉ¡ÈþáêÉ¢ë§ôÖâÌ
+sang        É¥É¤ÞúÉ£íßòª
+sao        Ü£É©É¨É¦ðþçÒëýÉ§öþ
+se        ØÄÈûÉ¬Éªð£É«ï¤
+sen        É­
+seng        É®
+sha        ÉµÉ²ÏÃßþÉ¶êýÉ±ì¦É³É·ððÉ°É´É¯ôÄï¡ö®öè
+shai        É¹É¸õ§
+shan        É¾ØßÉÆÛïæ©æÓÉ½ÉÈÉÃÉ¼Õ¤ÉÇäúÉ¿ÉºðÞÉÉÉÅëþô®ÜÏÉ»óµÉÀÚ¨ÉÄõÇÛ·îÌÉÁÉÂæó÷­
+shang        ÉÏÉËÉÌÛðÉÊÉÐÉÎéäãñìØç´ÉÑõüÉÍ
+shao        Û¿É×ÉÚÉÙÉÓè¼ÉÒäûÉÕÉÔóâÉÜô¹ÉÖÜæòÙÉÛÇÊÉØ
+she        ÙÜØÇÉÝÉäÉåÞéÉãì¨ÉæäÜâ¦î´ÉçÉàÉáÉßÉèÉÞÉâ÷ê
+shen        Ê²Éì²ÎÉëßÓÉïÉôÉóÉ÷é©ÉòÉîäÉÉøÉõÉêïòÉéÉñôÖÉðÉöëÏÝ·ÝØò×Ú·ÚÅÉí
+sheng        ³ËÊ£ÉýÊ¥ÉùáÓêÉäÅÉüÉúÉûÊ¢Ê¡íòóÏÉþÊ¤
+shi        ÊÀÊÂÊ²ÊËÊ¹ÊÌÊÆ³×Ê®Ê·ÊÈÐêÊÉÛõÊ¿Ê§Ê¼ÊµÊÒÊ¬ÊºÊÐÊ¦Ê½ß±ÊÑÊÃÊ°Ê©Ê±ÊÇÊÁÊÏÊªìÂÊ¨Ê¸Ê¯Ê¾ìêóßóÂÝªÝéÊ­Ê´ó§ÊÓÊÄÊ¶ÊÔÊ«ÚÖõ¹êÛéøÊÊÊÅÊÍîæÊ³ÊÎÊ»öåöõ
+shou        ÊÞÊÜÊÛÊØÊÙÊÖÊÚÊÕá÷ÊÝç·ô¼Ê×
+shu        ÊéÓáÙ¿ÊåÛÓÊûæ­ÊëÊôÊüË¡ÊùÊãÞóÊýÊîÊïÊõÊøÊàÊ÷ÊáÊâì¯ë¨ãðÊçÊþäøÊìÊèïøÊúç£ÊðëòÊæÝÄÊßÊíÊñÊêÊäÊöÊòÊó
+shua        Ë¢à§Ë£
+shuai        Ë§Ë¤ÂÊË¦ó°Ë¥    
+shuan        Ë©Ë¨äÌãÅ
+shuang        Ë«æ×Ë¬Ëª
+shui        Ë®Ë¯Ë°ËµË­
+shun        Ë±Ë²Ë´Ë³
+shuo        åùÞ÷ÊýË·éÃË¸Ë¶ÝôËµîå
+si        Ë¿ËÅËÆÙ¹ÙîØËÛÌË¾ßÐËÃË»ËÄæ¦ËÂËÈË¼ËºË¹ËÀãáãôäùìëË½óÓçÁñêËÁòÏïÈÊ³ËÇæáð¸
+song        Ú¡ËÎáÂáÔâìËËã¤ËÉäÁñµËÊÝ¿ËÏËÐËÍËÌ
+sou        ÛÅà²ËÔàÕËÑËÓäÑî¤ËÒÞ´òôïËì¬âÈ
+su        Ë×ËÛà¼ËÜÙíËÞãºä³ËÝöÕóùËÚËØËõËàËÕÝøö¢ËßÚÕËÙËÖ
+suan        â¡ËãËâËá
+sui        Ëêå¡ìÝíõî¡ËéËîËëËçÝ´ËäÚÇËìåäËåËæËíËè
+sun        ËïËðé¾áøËñÝ¥öÀâ¸
+suo        ËôßïàÊàÂæ¶ËùêýèøËóËöíüË÷ËõôÈÉ¯ËòËø
+ta        ËûàªËúËþËýËüÌ¢é½í³äâäðÌ¡õÁÌ¤Ì£åÝîèãË÷£
+tai        Ì¨´óÌ«Ì¬Ì§Ì­Ì©ìÆëÄÌ¥Ì¦Þ·õÌÛ¢ÌªîÑææöØ
+tan        Ì¾Ì®Ì³Ì¹µ¯ìþÌ½Ì¯ê¼Ì´ÌºÌ²Ì¶å£Ì¿ÌµÌ±Ì¼Ì»ñûÌ¸Ì·Ì°Û°îãïÄ
+tang        ÌÈÙÎÌÆÌÃÌÁàûã®ÌÂÌÄéÌÌÀÌÊäçÌÌè©ÌÇôÊñíÌÅó¥ó«ÌËÌÉõ±ï¦ïÛ
+tao        ß¶ßûÌ×ÌÍÌÒä¬ÌÎÌÔÌÏÌÐÌÑÌÖÌÓÌÕèº÷ÒØ»
+te        ìýß¯í«ÌØï«
+teng        ëøÌÛÌÚÌÙÌÜ
+ti        ÌåÙÃÌêÌÞÌäÌçÌëã©ÌèÌáÌæÌÝÌéç°ç¾ÜèñÓÌßÌãåÑõ®ÌàÌâðÃ
+tian        ÌîÌìãÃÌñÞÝéåÌíÌðÌïî±ÌóÌòãÙ
+tiao        Ù¬ÌôÌõÌ÷ìöñ»óÔôÐÜæòèµ÷ÌøÌö÷Øöæö¶
+tie        ÌûÝÆÌùÌú÷Ñ
+ting        Í¤Í£ÌüÌýæÃÍ¥Í¢Í¦èèÍ¡ÌþÍ§ÜðÝãòÑîúöª
+tong        ÙÚÙ¡Í¬àÌÍ®âúÍ±Í©Í°äüÍ´Í«íÅÍ¯Í²Í³ÜíÍ¨ÍªÍ­
+tou        ÍµÍ·Í¶Í¸÷»
+tu        ÍÃÍ¹ÍÂÍ¼ÍÁÜ¢ÍÀÍ½Í¿ÍºÍ»Ý±ÝËÍ¾õ©îÊ
+tuan        ÍÅåèÞÒÍÄî¶
+tui        ß¯ÍÆìÕÍÈÍÉÍÊÍËÍÇ
+tun        ÍÌ¶ÚÍÍêÕÙÛÍÎÍÊëàâ½
+tuo        Ø±Ù¢ÍÙÛçÍ×âÕÍÐÍØÍÏèÞèØÍÖéÒãûíÈóêÍÑõÉõ¢ÍÓÍÔÍÕÍÒö¾
+wa        ØôÍÛÍÞæ´ÍÚÍÝÍßëðÍÜÍà
+wai        ÍâáËÍá
+wan        ÍòÍèØàÍñÍêÍðÍäÍïÍìÍíÍåÍéÍæçþîµÍîÍëæýçºëäÍóÜ¹Ý¸ÝÒÂûòêÍãÍç
+wang        ÍöÍýÍùÍüã¯ÍúÍûÍ÷ÍôÍõÍøØèéþ÷Í
+wei        ÎªÎ°Î±Î»ÙËÎÀÎ£Î¶Î¨Î¹Î§Û×Î¯Íþæ¸Î¾Î²áËáÍÎ¡àøá¡Î¢Î©Î¿Î´Î¦ãíä¢ä¶Î¼Î«ì¿ìÐâ«â¬çâÎ·ðôÎ³Î¬Î¸ôºÎ­Î®ÝÚÎµÞ±ÚÃÎ½ê¦Î¥åÔãÇÚñÚóÎ¤è¸ÎºöÛ
+wen        ØØÎÇâºë¶ÎÄãëÎÂè·ÎÁÎÈÎÉÎÆÎÃÎÊÎÅãÓö©
+weng        ÎËÎÍÎÌÝîÞ³
+wo        ÙÁÎÔà¸á¢ÎÒÎÎÎÕÎÓÎÖÎÐä×íÒÎÑë¿Ý«ÎÏö»
+wu        ÎÚÎåØõÎéÎêØ£ÎñÎðÎçÎâÎáÎØßíÛØÎëåüæÄå»ÎÝÎ×âÐâèâä¶ñÎòÎìÎæÎÞÎîè»ÎàÎäÎãÎÛìÉÎïêõðíÎèÎßÜÌòÚÎÜÎóåÃÚùöÈÎÙÚãÎíæððÄðÍ÷ù
+xi        Ï°ÙÒÙâÎüßñÏ²ÎûÏ¦ÞÉÏ±æÒåïÏ£Ï¯áãÏ¢Ï¤Ï§Ï·ÎôÎúêØÎöÆÜéØÏ­ì¤ì¨Ï«Ï´ä»äÀÏªÏ©Ï¨ÎõìäÎþÏ¬çôðªÎùÎøìùìûÏ¡ñ¶ôÑÏµÏ¸ôËôâÏ¥ôªô¸ÜçÝ¾ÝßÝûòáó£ó¬Ï®ñÓÎ÷êêõèÛ­õµÏ³ÎýãÒÏ¶Úôâ¾÷û
+xia        ÏÂÏÀÏ»ÏÃÏÅßÈÏÄÏ¿Ï¾èÔáòÏÁè¦Ï¹íÌóÁÏºÏ½åÚÏ¼÷ï
+xian        ÏÉÏÈÙþÏØÏÌæµÏÓÏÜá­ÏÒÏÆÏÔåßë¯ÏÑìÞáýÏ×ÏÖðïììóÚôÌÏËÏßÏÛÏÙÏÏÜÈÝ²Þºò¹ÏÎ¼ûÏÍõÐõÑõ£Ï³ÏÇÏÐÏÞÏÕÏÝö±ÏÚÏÊðÂ
+xiang        ÏçÏíÏñÏáÏòÏìÏïâÔÏëÏðÏæÏàÏéÏäç½ÏèÜ¼ÝÙó­ÏåÏêÏóÏâ½µÏî÷ÏâÃÏãæøöß
+xiao        Ï÷ßØÏøÐ¥ÏùÐ¢ÏüÐ¡áÅÐ§ÏþèÉèÕÐ£ÏûÏýäìÏõÐ¦óãóïç¯Ð¤ÏôòÙåÐÏúÏöæç÷Ì
+xie        Ð©ÙôÙÉÐ´ÛÄÐ­Ð¶Ð¼âÝÐ¸Ð®Ð¯ß¢Ð±ÐµÐ¨éÇé¿ÐªÐ¹ÐºäÍå¬ÛÆâ³ç¥çÓÐ²Þ¯Ð«Ð·Ð³Ð»õÞõóåâÐ°Ð¬ò¡
+xin        ÐÅØ¶ÐÄÐÃÐÂê¿ÐÀì§Ð¾Ý·Ð½ÐÆÐÁöÎÐ¿ïâÜ°
+xing        ÐËÐÌÐÍÐÕÐÒÐÎÐÔã¬ÐÊß©ÐÇÐÓÐÉÊ¡íÊÐÈÜôÜþÐÐÐÏÐÑÚêâ¼
+xiong        ÐÖÐ×ÐÙÐÚÐÜÐØÜºÐÛ
+xiu        ÐÝÐÞßÝÐáá¶âÓÐàäåÐãÐåÐß³ôÐäõ÷ÐââÊ÷Ûð¼
+xu        ÛÃÐðÓõÐêÛ×ÐæÐöÐòÐìÐôÐçÐñèòäªäÓìãÐóíìôÚÐõÐ÷ÐøëÉñãÐîÞ£ÐéÐíÚ¼Ðïõ¯ÐèÐëçï
+xuan        ÙØÐúÐûÐüÞïÐýêÑé¸ãùäÖäöìÅìÓÐþè¯ðçÑ¢Ñ£íÛÑ¤ÝæÚÎÐùÑ¡îçïà
+xue        Ï÷àåÑ§í´Ñ¨Ñ¦ÑªÚÊõ½Ñ©Ñ¥÷¨
+xun        Ñ«Û÷Ñ°á¾Ñ²ÙãáßÑ­âþÑ®êÖÑ³Ñ´ä­ä±¿£Ñ¬â´ñ¿Ü÷Ý¡Þ¦Þ¹ÑµÑ¶Ñ¯Ñ¸Ñ·Û¨õ¸Ñ±öà
+ya        Ñ¾ÑÇØóÑ¹Ñ½ÑÆÛëæ«á¬ÑÂÑºÞëèâë²ÑÄÑÀçððéíýí¼Ñ¿ÑÁÑÃÑÈÔþåÂÑÅÑ»Ñ¼
+yan        ÑÏÙ²ÙÈÙðØßÑáØÉÑÊÑäÛïÑßÑÙåûæÌÑçÑÒáÃÑÓÑåâûÑÚêÌéÜÒóÑØÑÍäÎäÙÑÝÑ×ÑÌÑÉÑæìÍÑàçüÑÎÑÛÑÐÑâóÛî»ëÙëçÑÞÜ¾ÝÎÑÑÑÜÑÔÑèÚÝØÍõÂÛ±Û³õ¦ãÆÑËÑÖãÕÑãÑÕ÷ÐÑé÷Ê÷ú
+yang        ÑöÑðÑøÑëáàâóí¦ÑïÑîÑùÑêÑõãóÑóÑúì¾ìÈÑñÑ÷ÑíÑòòÕÑô÷±Ñì
+yao        ßºÒ§Ø²ÑýÒ¦Ò¢áÊçÛáæÒ¡ê×èÃØ³çòÑþñºÒ¤ôíÒ«ëÈÑüÒ¨Ò©ÒªÒ¥é÷Ò£ÑûÔ¿ï¢÷¥ðÎ÷á    
+ye        ÒµÒ²Ò±Ò¶Ò­Ò¹×§Ò´ÞéÞÞêÊÒ·Ò¬ÒºìÇÒ¯Ò®Ò¸ÚËÚþÒ°îôØÌÒ³
+yi        Ò»ÒåÒÒÒàÒÚÒÔÒÇÒÁØýÙ«ÒÀÒÐØ×ØæÒ½ß½ß×ßÞàÉàæÛÝÛüÒ¼ÒÄÞÈÒÌÒËÒÙá»áÚÒÑÒìÞÄß®ÒÍÒÛÒäâùâøã¨ÒâÜ²ÒÖÞÚÒ¾ì½Ò×ÒÎì¥éìÒãÒÊÒçäôìÚâ¢ÒÉÒßðêðùñ¯ÒæíôÒÓÒÆÒïçËôàñ´ÒîôèÒíÒÞÒÈÒÜô¯ÒÕ°¬ÜÓÜèÞ²ÒÏÉßòæÒÂÒáÒéÒëÚ±ÒèÒêêÝéóåÆÒÝÒÅÒØôýîÆÒ¿ï×ïîÒÃâÂæä÷ð
+yin        Ó¡Ò÷ßÅà³ÒòÛóÜ§â¹ÒöÒúÒüÒýÒóë³ä¦Òùáþñ«ñ¿Ø·ÜáÒðÒñò¾Û´î÷ÒøÒõÒþö¯ÒôÒûö¸
+ying        àÓÓ¤ëôÙøÓ¦Ó°ÞüÓ³éºÓ£äÞäëå­çøè¬ñ¨Ó¯Ó²Ó§ó¿âßÓ¢ÜãÜþÓ«Ó¨ÝºÓ©ÓªÝÓÝöÓ¬Ó®Ó­Û«ò£Ó±ðÐÓ¥
+yo        Ó´à¡
+yong        Ó¶Ù¸ÓÂÓ½à¯Ü­ÛÕÓ¹ÓÁã¼ÓµÓÀÓ¾Ó¿ÓÃð®Ó¸Ó·Ó¼Ó»çßïÞÓº÷Ó÷«
+you        ÓÅÓÓÙ§ØÕÓÖÓÑÓÒßÏàóå¶ÞÌÓÈÓ×ÓÄÓÇÓÆØüÓÐèÖÓÍÓÎë»ÓÌéàÓÉðàôíÝ¯Ý¬ÝµòÄòÊòöòøÓÕÓÊÓÏÓÔÓËîðöÏ÷î÷ø
+yu        ÓëÓèÓÚØñÓàÓáÙ¶ÓõÓ÷àôàöÓòæ¥åýÓéÓîÔ¢Î¾ÓìÓøáÎâ×ÓùÓúÓäÓÞÞíì¶êÅÓÜì£ÓûØ¹Ô¡ÓÙÓæÓåìÏìÙìÛÓüáüÓñè¤î´ðöðõÓÛÓíØ®ñ¾ñÁóÄÖàæúÓðí²Óýëéô§ô¨ÓßÓóÝÇÝ÷ÓÝòâòõÔ£êìÓþÓïÚÄÚÍÔ¥ÓØÓâÓöÓôîÚãÐÓçÓêö§Ô¤âÀâÅÔ¦å÷ÓãðÁðÖö¹
+yuan        ÔªÔ©Ô­Ô±Ô°Ô²à÷Ô«ÛùÜ«æÂÔ¹Ô¸ÞòÔ®éÚãäÔ¨Ô´ë¼Ô³è¥íóóîÔµÜ¾Ô·ó¢Ô¬Ô¯Ô¶Ôºð°Ô§ö½
+yue        ÀÖë¾ßÜÔÀÔÃÔ»ÔÂèÝéÐå®ÔÁÔ¼ËµÔ½Ô¾Ô¿îáÔÄÙß
+yun        ÔÆÔÊÔÈÔÐã¢ã³êÀÔÎéæëµìÙáñóÞç¡ÔÅÜ¿ÔÌÔËÛ©ÔÇÔÍÔÉè¹ÔÏ
+za        ÔÑßÆÕ¦ÞÙÔÓÔÒ
+zai        ÔÙÔÕÔÚ×ÓÔ×áÌÔÔÔÖçÞÔØ
+zan        ÔÛÔÜêÃÔÝè¶ô¢ôØÔÞôõöÉ
+zang        ÞÊÔàê°ÔáÔßæà
+zao        ÔäßðÔëÔçÔæÔèÔîÔïÔíÔãÔåÔéÔêÔìÔâ
+zei        Ôô
+zeng        ÔöÔ÷Ôøêµ×ÛçÕîÀÔùï­
+zen        ÔõÚÚ
+ze        ØÆÔòÕ¦ßõàýÔñê¾ÔóóÐóåô·ÔðØÓåÅ
+zhai        Õ®Õ¬Õ¯ÕªÕ«ñ©íÎÕ­µÔ
+zhang        ÕÉØëÕÌæÑáÖÕÊá¤ÕÅÕÃÕÆÕÈÕÁÕÇÕÄâ¯è°ÕÎÕÂÕÍó¯ÕËÛµ³¤ÕÏ
+zhan        Õ¼Õ¹Õ¸Õ½ÞøÕ¶ì¹Õ»Õ±Õ´Õ¿ÕµÕ°Õ¾Õ³ÕÀÕºÕ²ÚÞÕ·
+zhao        Õ×ÕÙÕÒÕÐÕÑ³¯èþÕÓÕÕ×¦×ÅóÉÕÖÕØÚ¯ÕÔîÈ
+zha        Õ§ß¸Õ¦ßåßîÔûÔúÞêÔý×õÕ¤é«Õ¥ÔüÕ¨ðäÕ£íÄòÆÕ©ÔþÕ¡Õ¢÷þ
+zhe        Ø±ÕÜÕÛß¡èÏÕã×ÅíÝÕßÕáÕÝòØó§ñÞÚØô÷éüÕÞÕâÕÚÕàðÑ
+zhen        ÕìÛÚÖ¡ÕñÕåëÞÕíèåé©é»ä¥ÕäÕçî³ÕîÕæÕèìõð¡óðçÇëÓÕéÝèÕïÕêêâéôÕëÕòÕóÕðð²
+zheng        Õùá¿Õ÷áçÕúÕüÕõÕþÕûÕýÕøÖ¢ÕöóÝÕôÖ¤ÚºÖ£îÛï£
+zhi        Ö®Ö¶ÖµÖÆØ´Ö»Ö¨åëÖ·ÛúÖÅàùÖÄåéÖ¾âåÖ´Ö¸Ö¿ÖÀÞýÖ§Ö¼ÖÇÖ¦è×èÙèÎèäÖ²Ö¹Ö³Ö­ÖÎÖÍÖËÖÌðëÖ±ÖªìíÖÈÖÉÖÏôêÖ½Ö¯ÖÃÖ°Ö«ëÕÖ¬ëùÖÁÖÂÖ¥ÜÆòÎÖ©ö£õôÖÊêÞÖºõÅõÙõÜéòéùÛ¤õ¥Úìïôæïðºíé
+zhong        ÖÐÖÙÖÚÚ£ÖÒâìÖÑÖÖÖÕÖ×ô±ó®ÖÔõàÖØÖÓïñ
+zhou        ÖÜÖäßúæ¨ÖæÖÝÖãÖçÖÞÖåíØô¦Öàôíæûç§ÖâëÐÖÛÝ§ÖßÖáôüÖè
+zhu        Ö÷Øù×¡ÙªÖúÖöÊôÖôÖìèÌÖùÖêéÆéÍ×¢ä¨ä¾äóìÄÖòÖóÖíÖéðæðñÖõ×£ÖñóÃÖþóçôãô¶ÜÑÜïÖøÖûÖëÖïÖîÖüõîÖðÛ¥îùÖý×¤÷æ
+zhua        ×¥ÎÎ×¦    
+zhuai        ×§
+zhuan        ×¨´«ßù×«×©×­×¬×ªò§âÍ
+zhuang        Ù××³×±´±×¯×²×®×´×°
+zhui        ×¹ã·×µ×ºçÄÝÈ×¸×·×¶ö¿æí
+zhun        ×¼ÍÍñ¸ëÆ×»
+zhuo        Ù¾×¿×Ä×¾×½ßªí½×À×Çä·äÃåª×Æ×Á×Åìú×ÂÚÂ×Ãïí
+zi        ×Ð×ÈßÚ×Éæ¢×Ë×Ó×Ö×ÎæÜáÑí§è÷×Í×Õ×Ì×ÒíöïöóÊ×ÑôÒ×Ïç»ñè×ÔÜëõþö¤ÚÑêß×Êôôê¢ïÅ÷Úööö·
+zong        ÙÌ×Ú×Ü×ØôÕ×Ý×Ûëê×Ù××
+zou        ×à×áÚÁ×ß×ÞÛ¸Úîæãöí
+zu        ÙÞ×ä×å×æ×â×éÝÏ×ç×ãïß×è
+zuan        ß¬×ëçÚõò×ê
+zui        ×ì×î×ïÞ©õþ×í
+zun        ×ðß¤é××ñ÷®
+zuo        ×ô×÷×ößòàÜ×ø×ó×ùâô×ò×õìñóÐëÑõ¡Úè
+gj
+jc
+sb
+vb
+vc
+vv
+vi
+vim
